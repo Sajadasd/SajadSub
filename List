@@ -20,5 +20,5 @@ vless://ba49d874-fe02-465d-82d3-ed981dc7694f@188.114.97.7:443?path=%2F&security=
 trojan://humanity@104.16.79.73:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%40WhiteDNS%20%7C%20PL8%7C10.0MB%2Fs%7CGPT%E2%81%BA-PL%7CGM-PL%7CCL-PL%7CSP-PL
 vless://6652f9ac-65db-4a72-ab20-bced22d743bb@dash.cloudflare.com:80?encryption=none&type=ws&path=%2F&host=fi-cdn-free.gozarnetwork.net#GozarNetwork_Free_04
 vless://6652f9ac-65db-4a72-ab20-bced22d743bb@www.speedtest.net:80?encryption=none&type=ws&path=%2F&host=fi-cdn-free.gozarnetwork.net#GozarNetwork_Free_03
-vless://98
+vless://98d74995-a9ae-4617-84f0-8012c2c74938@fi-free.gozarnetwork.net:443?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=random&insecure=1&allowInsecure=1&pbk=vJszASUkfofjiPauoD7DW9x20T9GGUiPluzYWOEjdlU&sid=443d8fe392&spx=%2F40EF0KaBebsIMWL#GozarNetwork_Free_02
 vless://6652f9ac-65db-4a72-ab20-bced22d743bb@mci.zoverv.com:80?encryption=none&type=ws&path=%2F&host=fi-cdn-free.gozarnetwork.net#GozarNetwork_Free_01
