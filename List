@@ -18,4 +18,7 @@ vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:443?path=%2F%3Fed%3D
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20FR84%7C7.1MB%2Fs%7CGPT%E2%81%BA-FR%7CGM-FR%7CCL-FR%7CSP-FR
 vless://ba49d874-fe02-465d-82d3-ed981dc7694f@188.114.97.7:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev#%F0%9F%87%AE%F0%9F%87%B9%20%7C%20%40WhiteDNS%20%7C%20IT24%7C23.1MB%2Fs%7CGPT%E2%81%BA-DE%7CGM-IT%7CCL-DE%7CSP-IT
 trojan://humanity@104.16.79.73:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%40WhiteDNS%20%7C%20PL8%7C10.0MB%2Fs%7CGPT%E2%81%BA-PL%7CGM-PL%7CCL-PL%7CSP-PL
-vless://98d74995-a9ae-4617-84f0-8012c2c74938@fi-free.gozarnetwork.net:443?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=random&insecure=1&allowInsecure=1&pbk=vJszASUkfofjiPauoD7DW9x20T9GGUiPluzYWOEjdlU&sid=443d8fe392&spx=%2F40EF0KaBebsIMWL#GozarNetwork_Free_02
+vless://6652f9ac-65db-4a72-ab20-bced22d743bb@dash.cloudflare.com:80?encryption=none&type=ws&path=%2F&host=fi-cdn-free.gozarnetwork.net#GozarNetwork_Free_04
+vless://6652f9ac-65db-4a72-ab20-bced22d743bb@www.speedtest.net:80?encryption=none&type=ws&path=%2F&host=fi-cdn-free.gozarnetwork.net#GozarNetwork_Free_03
+vless://98
+vless://6652f9ac-65db-4a72-ab20-bced22d743bb@mci.zoverv.com:80?encryption=none&type=ws&path=%2F&host=fi-cdn-free.gozarnetwork.net#GozarNetwork_Free_01
