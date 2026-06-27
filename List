@@ -1,17 +1,9 @@
 trojan://Mitivpn@151.101.110.219:443?type=ws&security=tls&path=%2Fde%3Dmitivpn&host=3-mitivpn.global.ssl.fastly.net&sni=global.fastly.com&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#%40MiTiVPN%20-%20%202%F0%9F%87%A9%F0%9F%87%AA
-
 trojan://Mitivpn@151.101.56.6:443?type=ws&security=tls&path=%2Ffastly%3Dmitivpn&host=4-4-3-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#%40MiTiVPN%20-%201%F0%9F%87%A9%F0%9F%87%AA
-
 trojan://Mitivpn@151.101.0.0:80?type=ws&security=none&path=%2Fed%3Dmitivpn&host=3-mitivpn.global.ssl.fastly.net#%40MiTiVPN%20-%20%203%F0%9F%87%A9%F0%9F%87%AA
-
 trojan://Mitivpn@151.101.242.172:80?type=ws&security=none&path=%2Fed%3Dmitivpn&host=4-4-3-mitivpn.global.ssl.fastly.net#%40MiTiVPN%20-%20%204%F0%9F%87%A9%F0%9F%87%AA
-
 trojan://MITIVPN@164.38.155.135:443?type=ws&security=tls&path=%2FMiTiVPN%3DDe&host=95r.ir&sni=95r.ir&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#%40MiTiVPN%20-%20Ultra%20%F0%9F%87%A9%F0%9F%87%AA
-
 trojan://MITIVPN@94.140.0.100:443?type=ws&security=tls&path=%2FMiTiVPN%3DUsa&host=95r.ir&sni=95r.ir&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#%40MiTiVPN%20-%20Ultra%20%F0%9F%87%BA%F0%9F%87%B2
-
 trojan://MiTiVPN@91.193.58.201:443?type=ws&security=tls&path=%2FMiTiVPN%3DNL&host=95r.ir&sni=95r.ir&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#%40MiTiVPN%20-%20Ultra%20%F0%9F%87%B3%F0%9F%87%B1
-
 trojan://MiTiVPN@45.131.4.118:443?type=ws&security=tls&path=%2FMiTiVPN%3DSe&host=95r.ir&sni=95r.ir&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#%40MiTiVPN%20-%20Ultra%20%F0%9F%87%B8%F0%9F%87%AA
-
 trojan://MiTiVPN@199.181.197.176:443?type=ws&security=tls&path=%2FMiTiVPN%3DfL&host=95r.ir&sni=95r.ir&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#%40MiTiVPN%20-%20Ultra%20%F0%9F%87%AB%F0%9F%87%AE
